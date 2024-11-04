@@ -1,0 +1,1 @@
+# Node.js-Puppeteer-Test-Screenshot-Extraction
