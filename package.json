@@ -1,0 +1,12 @@
+{
+  "name": "puppeteer-screenshot-extractor",
+  "version": "1.0.0",
+  "description": "A Puppeteer script to capture screenshots and extract ad details.",
+  "main": "scraper.js",
+  "scripts": {
+    "start": "node scraper.js"
+  },
+  "dependencies": {
+    "puppeteer": "^10.4.0"
+  }
+}
